@@ -1,10 +1,10 @@
 const seoConfig = {
-  title: 'John Doe',
+  title: 'Bernhard',
   description: 'I’m John and I’m a Backend & Devops engineer!',
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://portfolio-next.smakosh.com/',
+    url: 'https://github.com/Bernkra96/',
     siteName: 'Portfolio Next',
     images: [
       {
@@ -17,8 +17,8 @@ const seoConfig = {
     ],
   },
   twitter: {
-    handle: '@smakosh',
-    site: '@smakosh',
+    handle: '@bernkra96',
+    site: '@bernkra96',
     cardType: 'summary_large_image',
   },
 };
