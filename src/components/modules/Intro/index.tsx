@@ -23,7 +23,7 @@ const Intro = () => (
       <div className="flex-1 w-full md:w-1/2">
         <Image
           src="/assets/illustrations/dev.svg"
-          alt="I’m Bernhard and I’m a Benhard engineer!"
+          alt="Im Bernhard and Im a Benhard engineer!"
           width={463}
           height={273}
           priority

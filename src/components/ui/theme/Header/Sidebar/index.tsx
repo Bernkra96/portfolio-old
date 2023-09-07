@@ -17,7 +17,7 @@ const Sidebar = ({ sidebar, toggle }: SideBarProps) => (
     )}
     onClick={toggle}
   >
-    <NavbarLinks />
+    <NavbarLinks/>
   </button>
 );
 
